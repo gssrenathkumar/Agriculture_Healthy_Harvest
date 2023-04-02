@@ -10,6 +10,10 @@ This is an AI-based solution that helps farmers predict the right crop to grow, 
 - Shopping cart feature to buy predicted seeds and tools
 - Statistical analysis of crop growth with respect to soil and weather conditions using a dashboard feature
 
+
+Project Demo Video Link:
+<a href="google.com">Project Demo Link</a>
+
 ## Getting Started
 
 ### Prerequisites
@@ -31,6 +35,10 @@ This is an AI-based solution that helps farmers predict the right crop to grow, 
 2. Upload an image of the diseased crop to detect the disease
 3. Add predicted seeds and tools to the shopping cart
 4. View statistical analysis of crop growth with respect to soil and weather conditions on the dashboard
+
+## Project Shopping Cart Demo Link:
+
+- https://farmers-shopping.vercel.app/
 
 ## Contributing
 

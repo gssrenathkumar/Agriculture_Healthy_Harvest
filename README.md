@@ -12,7 +12,8 @@ This is an AI-based solution that helps farmers predict the right crop to grow, 
 
 
 Project Demo Video Link:
-<a href="google.com">Project Demo Link</a>
+https://drive.google.com/file/d/1K98sI78wdXUq8WRtAv_xzS1TUWuZS7vb/view?usp=sharing
+
 
 ## Getting Started
 
@@ -25,7 +26,7 @@ Project Demo Video Link:
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/username/CropAI.git`
+1. Clone the repository: `git clone https://github.com/gssrenathkumar/Agriculture_Healthy_Harvest.git`
 2. Install the required packages: `pip install -r requirements.txt`
 3. Run the application: `python app.py`
 
@@ -34,7 +35,8 @@ Project Demo Video Link:
 1. Upload an image of the crop to predict the crop and find appropriate fertilizers
 2. Upload an image of the diseased crop to detect the disease
 3. Add predicted seeds and tools to the shopping cart
-4. View statistical analysis of crop growth with respect to soil and weather conditions on the dashboard
+4. Find the crops which suits you the best
+5. View statistical analysis of crop growth with respect to soil and weather conditions on the dashboard
 
 ## Project Shopping Cart Demo Link:
 

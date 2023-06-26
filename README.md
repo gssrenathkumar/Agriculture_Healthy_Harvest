@@ -1,7 +1,6 @@
 # Agriculture Healthy Harvest
 
 <img src="static/images/logo.png">
-
 This is an AI-based solution that helps farmers predict the right crop to grow, find the appropriate fertilizers, and detect crop diseases using uploaded images and data features such as soil, weather, and water content. Additionally, the solution provides a shopping cart feature to buy predicted seeds and tools from a website at a cheaper rate. Furthermore, the solution offers a statistical analysis of crop growth with respect to soil and weather conditions using a dashboard feature.
 
 ## Features
